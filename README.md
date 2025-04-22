@@ -1,7 +1,8 @@
-Class 03 Assignment 
+# Class 03 Assignment by Arsala Rana
 
-lesson05_control_flow_loops
+This repository contains the code for the Class 03 assignment, which include:
+- Control Flow and Loops
+- Lists, Tuples, and Dictionaries
+- Sets and Frozensets
+.
 
-lesson06_lists_tuples_dict
-
-lesson07_set_frozenset
